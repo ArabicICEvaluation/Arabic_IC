@@ -18,7 +18,6 @@ from pycocoevalcap.cider.cider import Cider
 from nltk.tokenize import word_tokenize as simple_word_tokenize
 import re
 import json
-import torch
 import traceback
 
 from src.utils import common
