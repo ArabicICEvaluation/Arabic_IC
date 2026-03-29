@@ -1,0 +1,23 @@
+pandas 
+numpy
+matplotlib
+seaborn
+scikit-learn
+tqdm
+scipy
+arabic-reshaper
+python-bidi
+tqdm
+camel-tools
+arabic-reshaper 
+python-bidi
+pillow
+evaluate
+torch
+transformers
+pycocoevalcap
+nltk
+re
+json
+traceback
+# -e
